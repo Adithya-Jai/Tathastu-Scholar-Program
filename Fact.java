@@ -1,5 +1,5 @@
 import java.util.*;
-class factorial
+class Fact
 {
   public static void main(String args[])
   {
