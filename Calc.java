@@ -1,5 +1,5 @@
 import java.util.*;
-class calculator 
+class Calc
 {
   public static void main(String args[])
   {
