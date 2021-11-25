@@ -1,5 +1,5 @@
 import java.util.*;
-class arraylist 
+class ArrayList
 {
   public static void main(String args[])
   {
