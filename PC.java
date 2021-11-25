@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main
+class PC
 {
     static long factorial(int num) {
         int f = 1;
